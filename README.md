@@ -1,4 +1,4 @@
-📌 Project Overview
+📌 Project Overview - 
 Retail businesses face significant challenges in balancing inventory levels with fluctuating customer demand. Overstocking increases operational costs, while stockouts lead to lost sales and poor customer experience.
 This project leverages Machine Learning, Time Series Forecasting, and Retail Analytics to predict future product demand, identify seasonal sales patterns, and generate insights for inventory optimisation. Using over 2 million retail transaction records, the solution helps improve supply chain efficiency and support data-driven inventory planning.
 
