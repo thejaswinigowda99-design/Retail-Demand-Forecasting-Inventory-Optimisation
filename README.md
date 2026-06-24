@@ -109,11 +109,17 @@ Demand Forecasting
 
 📈 Business Impact
 This solution enables retailers to:
+
 Improve demand forecasting accuracy
+
 Reduce stockout risk
+
 Optimise inventory allocation
+
 Improve warehouse planning
+
 Support data-driven supply chain decisions
+
 Prepare for seasonal demand spikes
 
 🔑 Key Achievements
